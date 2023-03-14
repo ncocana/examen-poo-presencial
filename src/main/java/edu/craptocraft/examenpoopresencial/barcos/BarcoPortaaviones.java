@@ -5,7 +5,7 @@ public class BarcoPortaaviones implements Barcos {
     private int numAviones = 0;
     private int numMarineros = 0;
 
-    public BarcoPortaaviones(int numAviones, int marineros) {
+    public BarcoPortaaviones(int numAviones, int numMarineros) {
         this.numAviones = numAviones;
         this.numMarineros = numMarineros;
     }
