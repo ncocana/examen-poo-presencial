@@ -35,7 +35,7 @@ Haz un diagrama, como el visto en clase de la estructura de clases resultante y 
 
 ## Diagrama UML
 
-(imagen)
+![UML_Diagram](./docs/uml_diagram.png)
 
 ## Salida de la aplicación
 
